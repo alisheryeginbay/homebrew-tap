@@ -1,6 +1,6 @@
 cask "kawaru" do
-  version "1.0.3"
-  sha256 "31c9e486a9790e011e709a72f600280d985cb17900a2568e9f1b9cd4d52a4ed5"
+  version "1.0.4"
+  sha256 "c5fcd6724f4942e6b6d83aaf94a6fadc90d9b7319c4847656b9a3ae279d170cb"
 
   url "https://github.com/alisheryeginbay/kawaru/releases/download/v#{version}/Kawaru-#{version}.zip"
   name "Kawaru"
